@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+	<head>
+
+		<title>Brad Dyer - These are My Cats and I Am Very Fond of Them/title>
+
+	</head>
+	<body>
+		<header>
+			<h1>My family's cats</h1>
+			<nav>
+				<ul>
+					<li><a href="#charlie">Charlie the Cat</a></li>
+					<li><a href="#julian">Julian the Friendly and Inquisitive</a></li>
+					<li><a href="#dingdong">Ding Dong the Goofus</a></li>
+					<li><a href="#pickles">Pickles the Outsider</a></li>
+					<li><a href="#morty">Morty the Barking Cat</a></li>
+				</ul>
+			</nav>
+		</header>
+
+		<main>
+			<article>
+				<section>
+					<a name="charlie"></a>
+					<h2>Charlie the Grumpy Best Friend</h2>
+					<p>Charlie is the first cat I ever obtained. A friend of mine found him in the street when I was at college, but she couldn't keep him. So she offered him to me, and he was adorable and well-behaved, plus I'd always wanted a cat, so I took him in. Charlie is named after the character Charlie Kelly from It's Always Sunny in Philadelphia, because he was not very smart when he was a kitten. Charlie is always waiting for me when I get home from work, and he loves people...but he is not very fond of our other cats. He gets very grumpy around them.</p>
+					<figure>
+						<img src="images/Charlie.jpg" alt="This is a picture of Charlie peeking his head out of a box. He is playing hide and seek with me, I think." />
+						<figcaption>Charlie loves boxes.</figcaption>
+					</figure>
+				</section>
+				<section>
+					<a name="julian"></a>
+					<h2>Julian the Friendly and Inquisitive</h2>
+					<p>Julian is just an all-around good boy. He is friendly to everyone, he is well-behaved, and he was the first to make friends with Pickles, our lone female cat. Julian is always playing and always wants to be part of whatever we're doing. He is practically insufferable from his brother, Ding Dong, and you can catch them snuggling together most days. Julian <b>does</b> unfortunately act up on occasion by eating any food we leave on the table unattended. He will even rip through the plastic packaging in order to gnaw on loaves of bread.</p>
+					<figure>
+						<img src="images/Julian.PNG alt="An image of Julian being melodramatic." />
+						<figcaption>Julian is either playing peekaboo or he is being melodramatic about something.</figcaption>
+					</figure>
+				</section>
+				<section>
+					<a name="dingdong"></a>
+					<h2>Ding Dong the Goofus</h2>
+					<p>Ding Dong is honestly such a ding dong. He sleeps on one of the stairs directly in our way, he jumps up on us and purrs for us to pet him but if we ever pick him up he squirms and immediately jumps down, he folows Charlie everywhere despite Charlie wanting nothing to do with him, and he is always whining for food. He is the weirdest cat, but he's also probably the cutest.</p>
+					<figure>
+						<img src="images/Ding Dong.jpg" alt="MJust a photo of Ding Dong laying on a blanket being sleepy." />
+						<figcaption>Ding Dong is too cute for my own good.</figcaption>
+					</figure>
+				</section>
+				<section>
+					<a name="pickles"></a>
+					<h2>Pickles the Outsider</h2>
+					<p>Pickles is the latest addition to our family. She was 8 months old when we got her, and not used to being around other cats. She has been hostile to all the other cats, up until Julian finally won her over. Pickles is usually friendly, but she can have some severe mood swings, and we have to be careful with her. Pickles is the most nimble of all the cats, and she loves to spend all of her time she can in high places. She's mostly a sweetheart.</p>
+					<figure>
+						<img src="images/Pickles.jpg" alt="This is a picture of Pickles lying down on a railing." />
+						<figcaption>Pickles loves railings a little too much. There's more to life than a good railing.</figcaption>
+					</figure>
+				</section>
+				<section>
+					<a name="morty"></a>
+					<h2>Morty the Barking Cat</h2>
+					<p>This is Morty. Morty is a very large and funny-looking cat, but he's usually very well-behaved. Morty needs more attention than the other cats, and he has to be let outside because he's too big for a litterbox, but we love him just as much as the other cats.</p>
+					<figure>
+						<img src="images/Morty.jpg" alt="Alright, I gotta be honest. Morty is actually a dog." />
+						<figcaption>Morty may be large, but he is also in charge. Of barking for no reason at all hours of the night.</figcaption>
+					</figure>
+				</section>
+			</article>
+		</main>
+
+		<footer>
+			<p>&copy; 2022 Bradford Dryer, esq.</p>
+		</footer>
+	</body>
+</html>
